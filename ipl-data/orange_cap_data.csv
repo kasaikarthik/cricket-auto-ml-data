@@ -1,0 +1,241 @@
+rank,Player,Mat,Inns,Balls,Overs,Mdns,Runs,Wkts,BBI,BBM,Ave,Econ,SR,4,team,bowler_surname,year,season,bowler,overall_key_count,home_key_count,away_key_count,team_position,Team Name
+1,Mohammed Shami (GT),13,13,306,51.0,2,385,23,4/11,4/11,16.73,7.54,13.30,2,GT,Shami,2023,2023,Mohammed Shami,6.0,4.0,2.0,1.0,Gujarat Titans
+2,Rashid Khan (GT),13,13,312,52.0,-,414,23,4/30,4/30,18.00,7.96,13.56,1,GT,Khan,2023,2023,Rashid Khan,9.0,5.0,4.0,1.0,Gujarat Titans
+3,YS Chahal (RR),13,13,293,48.5,-,392,21,4/17,4/17,18.66,8.02,13.95,3,RR,Chahal,2023,2023,Yuzvendra Chahal,6.0,3.0,3.0,6.0,Rajasthan Royals
+4,PP Chawla (MI),13,13,300,50.0,-,383,20,3/22,3/22,19.14,7.66,15.00,-,MI,Chawla,2023,2023,Piyush Chawla,10.0,5.0,5.0,5.0,Mumbai Indians
+5,CV Varun (KKR),13,13,292,48.4,1,391,19,4/15,4/15,20.57,8.03,15.36,1,KKR,Varun,2023,2023,,,,,7.0,Kolkata Knight Riders
+6,TU Deshpande (CSK),13,13,269,44.5,-,439,19,3/45,3/45,23.10,9.79,14.15,-,CSK,Deshpande,2023,2023,Tushar Deshpande,7.0,4.0,3.0,2.0,Chennai Super Kings
+7,MM Sharma (GT),10,10,185,30.5,-,230,17,4/28,4/28,13.52,7.45,10.88,2,GT,Sharma,2023,2023,Mohit Sharma,7.0,4.0,3.0,1.0,Gujarat Titans
+8,Mohammed Siraj (RCB),13,13,276,46.0,-,343,17,4/21,4/21,20.17,7.45,16.23,1,RCB,Siraj,2023,2023,Mohammed Siraj,4.0,4.0,0.0,4.0,Royal Challengers Bangalore
+9,RA Jadeja (CSK),13,13,270,45.0,-,325,16,3/20,3/20,20.30,7.22,16.87,-,CSK,Jadeja,2023,2023,Ravindra Jadeja,5.0,3.0,2.0,2.0,Chennai Super Kings
+10,Arshdeep Singh (PBKS),13,13,281,46.5,-,453,16,4/29,4/29,28.31,9.67,17.56,1,PBKS,Singh,2023,2023,Arshdeep Singh,3.0,1.0,2.0,8.0,Punjab Kings
+11,B Kumar (SRH),13,13,282,47.0,1,399,15,5/30,5/30,26.60,8.48,18.80,-,SRH,Kumar,2023,2023,Bhuvneshwar Kumar,5.0,2.0,3.0,10.0,Sunrisers Hyderabad
+12,JP Behrendorff (MI),9,9,192,32.0,-,302,14,3/23,3/23,21.57,9.43,13.71,-,MI,Behrendorff,2023,2023,Jason Behrendorff,4.0,2.0,2.0,5.0,Mumbai Indians
+13,Ravi Bishnoi (LSG),13,12,255,42.3,-,338,14,3/28,3/28,24.14,7.95,18.21,-,LSG,Bishnoi,2023,2023,Ravi Bishnoi,3.0,2.0,1.0,3.0,Lucknow Super Giants
+14,R Ashwin (RR),13,13,294,49.0,-,368,14,2/23,2/23,26.28,7.51,21.00,-,RR,Ashwin,2023,2023,Ravichandran Ashwin,7.0,4.0,3.0,6.0,Rajasthan Royals
+15,M Pathirana (CSK),9,9,206,34.2,-,268,13,3/15,3/15,20.61,7.80,15.84,-,CSK,Pathirana,2023,2023,Matheesha Pathirana,4.0,3.0,1.0,2.0,Chennai Super Kings
+1,HV Patel (RCB),15,15,338,56.2,-,459,32,5/27,5/27,14.34,8.14,10.56,1,RCB,Patel,2021,2021,Harshal Patel,8.0,5.0,3.0,3.0,Royal Challengers Bangalore
+2,Avesh Khan (DC),16,16,366,61.0,-,450,24,3/13,3/13,18.75,7.37,15.25,-,DC,Khan,2021,2021,Rashid Khan,9.0,5.0,4.0,1.0,Delhi Capitals
+3,JJ Bumrah (MI),14,14,330,55.0,-,410,21,3/36,3/36,19.52,7.45,15.71,-,MI,Bumrah,2021,2021,Jasprit Bumrah,7.0,3.0,4.0,5.0,Mumbai Indians
+4,SN Thakur (CSK),16,16,359,59.5,1,527,21,3/28,3/28,25.09,8.80,17.09,-,CSK,Thakur,2021,2021,Shardul Thakur,6.0,3.0,3.0,2.0,Chennai Super Kings
+5,YS Chahal (RCB),15,15,318,53.0,1,374,18,3/11,3/11,20.77,7.05,17.66,-,RCB,Chahal,2021,2021,Yuzvendra Chahal,8.0,5.0,3.0,3.0,Royal Challengers Bangalore
+6,Rashid Khan (SRH),14,14,336,56.0,-,375,18,3/36,3/36,20.83,6.69,18.66,-,SRH,Khan,2021,2021,Rashid Khan,9.0,5.0,4.0,8.0,Sunrisers Hyderabad
+7,CV Varun (KKR),17,17,408,68.0,-,448,18,3/13,3/13,24.88,6.58,22.66,-,KKR,Varun,2021,2021,,,,,4.0,Kolkata Knight Riders
+8,JO Holder (SRH),8,8,191,31.5,-,247,16,4/52,4/52,15.43,7.75,11.93,1,SRH,Holder,2021,2021,Jason Holder,6.0,4.0,2.0,8.0,Sunrisers Hyderabad
+9,SP Narine (KKR),14,14,336,56.0,-,361,16,4/21,4/21,22.56,6.44,21.00,1,KKR,Narine,2021,2021,Sunil Narine,7.0,3.0,4.0,4.0,Kolkata Knight Riders
+10,AR Patel (DC),12,12,276,46.0,-,306,15,3/21,3/21,20.39,6.65,18.39,-,DC,Patel,2021,2021,Harshal Patel,8.0,5.0,3.0,1.0,Delhi Capitals
+11,K Rabada (DC),15,15,336,56.0,1,456,15,3/36,3/36,30.40,8.14,22.40,-,DC,Rabada,2021,2021,Kagiso Rabada,4.0,3.0,1.0,1.0,Delhi Capitals
+12,DJ Bravo (CSK),11,11,202,33.4,-,263,14,3/24,3/24,18.78,7.81,14.42,-,CSK,Bravo,2021,2021,Dwayne Bravo,3.0,1.0,2.0,2.0,Chennai Super Kings
+13,DL Chahar (CSK),15,15,324,54.0,1,451,14,4/13,4/13,32.21,8.35,23.14,2,CSK,Chahar,2021,2021,Rahul Chahar,5.0,2.0,3.0,2.0,Chennai Super Kings
+14,LH Ferguson (KKR),8,8,180,30.0,-,224,13,3/18,3/18,17.23,7.46,13.84,-,KKR,Ferguson,2021,2021,Lockie Ferguson,5.0,2.0,3.0,4.0,Kolkata Knight Riders
+15,RA Jadeja (CSK),16,16,294,49.0,1,346,13,3/13,3/13,26.61,7.06,22.61,-,CSK,Jadeja,2021,2021,Ravindra Jadeja,2.0,1.0,1.0,2.0,Chennai Super Kings
+1,YS Chahal (RR),17,17,408,68.0,-,527,27,5/40,5/40,19.51,7.75,15.11,1,RR,Chahal,2022,2022,Yuzvendra Chahal,11.0,7.0,4.0,2.0,Rajasthan Royals
+2,PWH de Silva (RCB),16,16,342,57.0,1,430,26,5/18,5/18,16.53,7.54,13.15,1,RCB,Silva,2022,2022,,,,,4.0,Royal Challengers Bangalore
+3,K Rabada (PBKS),13,13,288,48.0,-,406,23,4/33,4/33,17.64,8.45,12.52,2,PBKS,Rabada,2022,2022,Kagiso Rabada,2.0,1.0,1.0,6.0,Punjab Kings
+4,Umran Malik (SRH),14,14,295,49.1,1,444,22,5/25,5/25,20.18,9.03,13.40,1,SRH,Malik,2022,2022,Umran Malik,7.0,3.0,4.0,8.0,Sunrisers Hyderabad
+5,JR Hazlewood (RCB),12,12,279,46.3,1,377,20,4/25,4/25,18.85,8.10,13.95,1,RCB,Hazlewood,2022,2022,Josh Hazlewood,8.0,2.0,6.0,4.0,Royal Challengers Bangalore
+6,Mohammed Shami (GT),16,16,366,61.0,-,488,20,3/25,3/25,24.40,8.00,18.30,-,GT,Shami,2022,2022,Mohammed Shami,8.0,6.0,2.0,1.0,Gujarat Titans
+7,HV Patel (RCB),15,15,321,53.3,2,410,19,4/34,4/34,21.57,7.66,16.89,1,RCB,Patel,2022,2022,Harshal Patel,9.0,4.0,5.0,4.0,Royal Challengers Bangalore
+8,Rashid Khan (GT),16,16,383,63.5,-,421,19,4/24,4/24,22.15,6.59,20.15,1,GT,Khan,2022,2022,Rashid Khan,8.0,3.0,5.0,1.0,Gujarat Titans
+9,M Prasidh Krishna (RR),17,17,399,66.3,3,551,19,3/22,3/22,29.00,8.28,21.00,-,RR,Krishna,2022,2022,Prasidh Krishna,5.0,2.0,3.0,2.0,Rajasthan Royals
+10,Avesh Khan (LSG),13,13,286,47.4,1,416,18,4/24,4/24,23.11,8.72,15.88,1,LSG,Khan,2022,2022,Rashid Khan,8.0,3.0,5.0,3.0,Lucknow Super Giants
+11,TA Boult (RR),16,16,372,62.0,3,492,16,2/18,2/18,30.75,7.93,23.25,-,RR,Boult,2022,2022,Trent Boult,7.0,3.0,4.0,2.0,Rajasthan Royals
+12,Mohsin Khan (LSG),9,9,198,33.0,2,197,14,4/16,4/16,14.07,5.96,14.14,1,LSG,Khan,2022,2022,Rashid Khan,8.0,3.0,5.0,3.0,Lucknow Super Giants
+13,Ravi Bishnoi (LSG),14,14,324,54.0,-,456,13,2/22,2/22,35.07,8.44,24.92,-,LSG,Bishnoi,2022,2022,Ravi Bishnoi,4.0,3.0,1.0,3.0,Lucknow Super Giants
+14,B Kumar (SRH),14,14,313,52.1,2,383,12,3/22,3/22,31.91,7.34,26.08,-,SRH,Kumar,2022,2022,Bhuvneshwar Kumar,8.0,3.0,5.0,8.0,Sunrisers Hyderabad
+15,LH Ferguson (GT),13,13,286,47.4,-,427,12,4/28,4/28,35.58,8.95,23.83,1,GT,Ferguson,2022,2022,Lockie Ferguson,3.0,2.0,1.0,1.0,Gujarat Titans
+1,K Rabada (DC),17,17,394,65.4,1,548,30,4/24,4/24,18.26,8.34,13.13,2,DC,Rabada,2020,2020,Kagiso Rabada,12.0,6.0,6.0,2.0,Delhi Capitals
+2,JJ Bumrah (MI),15,15,360,60.0,2,404,27,4/14,4/14,14.96,6.73,13.33,2,MI,Bumrah,2020,2020,Jasprit Bumrah,7.0,4.0,3.0,1.0,Mumbai Indians
+3,TA Boult (MI),15,15,344,57.2,3,457,25,4/18,4/18,18.28,7.97,13.76,1,MI,Boult,2020,2020,Trent Boult,8.0,3.0,5.0,1.0,Mumbai Indians
+4,A Nortje (DC),16,16,366,61.0,-,512,22,3/33,3/33,23.27,8.39,16.63,-,DC,Nortje,2020,2020,Anrich Nortje,9.0,6.0,3.0,2.0,Delhi Capitals
+5,YS Chahal (RCB),15,15,343,57.1,-,405,21,3/18,3/18,19.28,7.08,16.33,-,RCB,Chahal,2020,2020,Yuzvendra Chahal,9.0,4.0,5.0,4.0,Royal Challengers Bangalore
+6,Rashid Khan (SRH),16,16,384,64.0,1,344,20,3/7,3/7,17.20,5.37,19.20,-,SRH,Khan,2020,2020,Rashid Khan,7.0,3.0,4.0,3.0,Sunrisers Hyderabad
+7,T Natarajan (SRH),16,16,377,62.5,1,504,16,2/24,2/24,31.50,8.02,23.56,-,SRH,Natarajan,2020,2020,T Natarajan,8.0,5.0,3.0,3.0,Sunrisers Hyderabad
+8,RD Chahar (MI),15,15,318,53.0,-,433,15,2/18,2/18,28.86,8.16,21.20,-,MI,Chahar,2020,2020,Deepak Chahar,8.0,4.0,4.0,1.0,Mumbai Indians
+9,JO Holder (SRH),7,7,168,28.0,-,233,14,3/25,3/25,16.64,8.32,12.00,-,SRH,Holder,2020,2020,Jason Holder,4.0,0.0,4.0,3.0,Sunrisers Hyderabad
+10,Sandeep Sharma (SRH),13,13,312,52.0,-,374,14,3/34,3/34,26.71,7.19,22.28,-,SRH,Sharma,2020,2020,Sandeep Sharma,5.0,2.0,3.0,3.0,Sunrisers Hyderabad
+11,MP Stoinis (DC),17,13,178,29.4,-,283,13,3/26,3/26,21.76,9.53,13.69,-,DC,Stoinis,2020,2020,Marcus Stoinis,3.0,3.0,0.0,2.0,Delhi Capitals
+12,R Ashwin (DC),15,15,306,51.0,-,391,13,3/29,3/29,30.07,7.66,23.53,-,DC,Ashwin,2020,2020,Murugan Ashwin,4.0,2.0,2.0,2.0,Delhi Capitals
+13,Mohammed Siraj (RCB),9,9,163,27.1,2,236,11,3/8,3/8,21.45,8.68,14.81,-,RCB,Siraj,2020,2020,Mohammed Siraj,4.0,2.0,2.0,4.0,Royal Challengers Bangalore
+14,JL Pattinson (MI),10,10,213,35.3,-,320,11,2/19,2/19,29.09,9.01,19.36,-,MI,Pattinson,2020,2020,James Pattinson,5.0,3.0,2.0,1.0,Mumbai Indians
+15,AR Patel (DC),15,15,306,51.0,-,327,9,2/18,2/18,36.33,6.41,34.00,-,DC,Patel,2020,2020,Axar Patel,3.0,0.0,3.0,2.0,Delhi Capitals
+1,Imran Tahir (CSK),17,17,386,64.2,1,431,26,4/12,4/12,16.57,6.69,14.84,2,CSK,Tahir,2019,2019,Imran Tahir,9.0,4.0,5.0,2.0,Chennai Super Kings
+2,DL Chahar (CSK),17,17,387,64.3,2,482,22,3/20,3/20,21.90,7.47,17.59,-,CSK,Chahar,2019,2019,Deepak Chahar,9.0,4.0,5.0,2.0,Chennai Super Kings
+3,KK Ahmed (SRH),9,9,209,34.5,-,287,19,3/30,3/30,15.10,8.23,11.00,-,SRH,Ahmed,2019,2019,Khaleel Ahmed,7.0,4.0,3.0,4.0,Sunrisers Hyderabad
+4,JJ Bumrah (MI),16,16,370,61.4,1,409,19,3/20,3/20,21.52,6.63,19.47,-,MI,Bumrah,2019,2019,Jasprit Bumrah,8.0,4.0,4.0,1.0,Mumbai Indians
+5,Mohammed Shami (KXIP),14,14,324,54.0,-,469,19,3/21,3/21,24.68,8.68,17.05,-,KXIP,Shami,2019,2019,Mohammed Shami,8.0,5.0,3.0,6.0,Kings XI Punjab
+6,Rashid Khan (SRH),15,15,360,60.0,1,377,17,3/21,3/21,22.17,6.28,21.17,-,SRH,Khan,2019,2019,Rashid Khan,8.0,3.0,5.0,4.0,Sunrisers Hyderabad
+7,Harbhajan Singh (CSK),11,11,264,44.0,1,312,16,3/20,3/20,19.50,7.09,16.50,-,CSK,Singh,2019,2019,Harbhajan Singh,6.0,4.0,2.0,2.0,Chennai Super Kings
+8,SL Malinga (MI),12,12,269,44.5,-,438,16,4/31,4/31,27.37,9.76,16.81,2,MI,Malinga,2019,2019,Lasith Malinga,4.0,3.0,1.0,1.0,Mumbai Indians
+9,RA Jadeja (CSK),16,16,324,54.0,1,343,15,3/9,3/9,22.86,6.35,21.60,-,CSK,Jadeja,2019,2019,Ravindra Jadeja,5.0,1.0,4.0,2.0,Chennai Super Kings
+10,R Ashwin (KXIP),14,14,330,55.0,-,400,15,3/23,3/23,26.66,7.27,22.00,-,KXIP,Ashwin,2019,2019,Ravichandran Ashwin,8.0,4.0,4.0,6.0,Kings XI Punjab
+11,HH Pandya (MI),16,16,255,42.3,-,390,14,3/20,3/20,27.85,9.17,18.21,-,MI,Pandya,2019,2019,Krunal Pandya,5.0,3.0,2.0,1.0,Mumbai Indians
+12,RD Chahar (MI),13,13,282,47.0,-,308,13,3/19,3/19,23.69,6.55,21.69,-,MI,Chahar,2019,2019,Deepak Chahar,9.0,4.0,5.0,1.0,Mumbai Indians
+13,I Sharma (DC),13,13,276,46.0,1,349,13,3/38,3/38,26.84,7.58,21.23,-,DC,Sharma,2019,2019,Ishant Sharma,4.0,2.0,2.0,3.0,Delhi Capitals
+14,B Kumar (SRH),15,15,354,59.0,1,461,13,2/24,2/24,35.46,7.81,27.23,-,SRH,Kumar,2019,2019,Bhuvneshwar Kumar,5.0,2.0,3.0,4.0,Sunrisers Hyderabad
+15,KH Pandya (MI),16,16,276,46.0,-,335,12,3/34,3/34,27.91,7.28,23.00,-,MI,Pandya,2019,2019,Krunal Pandya,5.0,3.0,2.0,1.0,Mumbai Indians
+1,AJ Tye (KXIP),14,14,336,56.0,-,448,24,4/16,4/16,18.66,8.00,14.00,3,KXIP,Tye,2018,2018,Andrew Tye,10.0,6.0,4.0,7.0,Kings XI Punjab
+2,Rashid Khan (SRH),17,17,408,68.0,2,458,21,3/19,3/19,21.80,6.73,19.42,-,SRH,Khan,2018,2018,Rashid Khan,7.0,4.0,3.0,1.0,Sunrisers Hyderabad
+3,S Kaul (SRH),17,17,396,66.0,-,547,21,3/23,3/23,26.04,8.28,18.85,-,SRH,Kaul,2018,2018,Siddarth Kaul,9.0,5.0,4.0,1.0,Sunrisers Hyderabad
+4,HH Pandya (MI),13,13,256,42.4,-,381,18,3/24,3/24,21.16,8.92,14.22,-,MI,Pandya,2018,2018,Hardik Pandya,7.0,4.0,3.0,5.0,Mumbai Indians
+5,TA Boult (DC),14,14,316,52.4,1,466,18,2/20,2/20,25.88,8.84,17.55,-,DC,Boult,2018,2018,Trent Boult,7.0,4.0,3.0,,
+6,JJ Bumrah (MI),14,14,324,54.0,-,372,17,3/15,3/15,21.88,6.88,19.05,-,MI,Bumrah,2018,2018,Jasprit Bumrah,7.0,3.0,4.0,5.0,Mumbai Indians
+7,Kuldeep Yadav (KKR),16,16,308,51.2,-,418,17,4/20,4/20,24.58,8.14,18.11,1,KKR,Yadav,2018,2018,Umesh Yadav,8.0,3.0,5.0,3.0,Kolkata Knight Riders
+8,SP Narine (KKR),16,16,366,61.0,-,467,17,3/18,3/18,27.47,7.65,21.52,-,KKR,Narine,2018,2018,Sunil Narine,9.0,6.0,3.0,3.0,Kolkata Knight Riders
+9,SN Thakur (CSK),13,13,280,46.4,1,431,16,2/18,2/18,26.93,9.23,17.50,-,CSK,Thakur,2018,2018,Shardul Thakur,5.0,3.0,2.0,2.0,Chennai Super Kings
+10,JC Archer (RR),10,10,233,38.5,-,325,15,3/22,3/22,21.66,8.36,15.53,-,RR,Archer,2018,2018,Jofra Archer,6.0,3.0,3.0,4.0,Rajasthan Royals
+11,M Markande (MI),14,14,264,44.0,-,368,15,4/23,4/23,24.53,8.36,17.60,1,MI,Markande,2018,2018,Mayank Markande,3.0,2.0,1.0,5.0,Mumbai Indians
+12,PP Chawla (KKR),15,15,294,49.0,-,412,14,3/48,3/48,29.42,8.40,21.00,-,KKR,Chawla,2018,2018,Piyush Chawla,5.0,4.0,1.0,3.0,Kolkata Knight Riders
+13,Shakib Al Hasan (SRH),17,17,342,57.0,-,456,14,2/18,2/18,32.57,8.00,24.42,-,SRH,Hasan,2018,2018,,,,,1.0,Sunrisers Hyderabad
+14,DJ Bravo (CSK),16,16,321,53.3,1,533,14,2/16,2/16,38.07,9.96,22.92,-,CSK,Bravo,2018,2018,Dwayne Bravo,3.0,1.0,2.0,2.0,Chennai Super Kings
+15,AD Russell (KKR),16,15,227,37.5,-,355,13,3/31,3/31,27.30,9.38,17.46,-,KKR,Russell,2018,2018,Andre Russell,5.0,1.0,4.0,3.0,Kolkata Knight Riders
+1,B Kumar (SRH),14,14,314,52.2,-,369,26,5/19,5/19,14.19,7.05,12.07,-,SRH,Kumar,2017,2017,Bhuvneshwar Kumar,9.0,5.0,4.0,3.0,Sunrisers Hyderabad
+2,JD Unadkat (RPS),12,12,275,45.5,3,322,24,5/30,5/30,13.41,7.02,11.45,-,RPS,Unadkat,2017,2017,Jaydev Unadkat,9.0,3.0,6.0,2.0,Rising Pune Supergiant
+3,JJ Bumrah (MI),16,16,356,59.2,2,440,20,3/7,3/7,22.00,7.41,17.80,-,MI,Bumrah,2017,2017,Jasprit Bumrah,9.0,7.0,2.0,1.0,Mumbai Indians
+4,MJ McClenaghan (MI),14,14,324,54.0,-,507,19,3/24,3/24,26.68,9.38,17.05,-,MI,McClenaghan,2017,2017,Mitchell McClenaghan,7.0,3.0,4.0,1.0,Mumbai Indians
+5,Rashid Khan (SRH),14,14,324,54.0,-,358,17,3/19,3/19,21.05,6.62,19.05,-,SRH,Khan,2017,2017,Rashid Khan,10.0,5.0,5.0,3.0,Sunrisers Hyderabad
+6,Sandeep Sharma (KXIP),13,13,288,48.0,-,398,17,4/20,4/20,23.41,8.29,16.94,1,KXIP,Sharma,2017,2017,Mohit Sharma,5.0,3.0,2.0,5.0,Kings XI Punjab
+7,UT Yadav (KKR),14,14,291,48.3,-,410,17,4/33,4/33,24.11,8.45,17.11,1,KKR,Yadav,2017,2017,Kuldeep Yadav,5.0,2.0,3.0,4.0,Kolkata Knight Riders
+8,P Negi (RCB),12,12,193,32.1,-,197,16,3/10,3/10,12.31,6.12,12.06,-,RCB,Negi,2017,2017,Pawan Negi,8.0,3.0,5.0,8.0,Royal Challengers Bangalore
+9,S Kaul (SRH),10,10,214,35.4,-,300,16,4/29,4/29,18.75,8.41,13.37,1,SRH,Kaul,2017,2017,Siddarth Kaul,4.0,3.0,1.0,3.0,Sunrisers Hyderabad
+10,NM Coulter-Nile (KKR),8,8,170,28.2,-,228,15,3/20,3/20,15.20,8.04,11.33,-,KKR,Coulter-Nile,2017,2017,Nathan Coulter-Nile,5.0,2.0,3.0,4.0,Kolkata Knight Riders
+11,AR Patel (KXIP),14,14,288,48.0,-,362,15,3/11,3/11,24.13,7.54,19.20,-,KXIP,Patel,2017,2017,Axar Patel,7.0,2.0,5.0,5.0,Kings XI Punjab
+12,PJ Cummins (DC),12,12,277,46.1,-,373,15,2/20,2/20,24.86,8.07,18.46,-,DC,Cummins,2017,2017,Pat Cummins,8.0,5.0,3.0,,
+13,YS Chahal (RCB),13,13,261,43.3,-,333,14,3/16,3/16,23.78,7.65,18.64,-,RCB,Chahal,2017,2017,Yuzvendra Chahal,5.0,1.0,4.0,8.0,Royal Challengers Bangalore
+14,KV Sharma (MI),9,9,184,30.4,-,214,13,4/16,4/16,16.46,6.97,14.15,1,MI,Sharma,2017,2017,Mohit Sharma,5.0,3.0,2.0,1.0,Mumbai Indians
+15,MM Sharma (KXIP),14,14,274,45.4,-,410,13,2/24,2/24,31.53,8.97,21.07,-,KXIP,Sharma,2017,2017,Mohit Sharma,5.0,3.0,2.0,5.0,Kings XI Punjab
+1,B Kumar (SRH),17,17,396,66.0,3,490,23,4/29,4/29,21.30,7.42,17.21,1,SRH,Kumar,2016,2016,Bhuvneshwar Kumar,13.0,5.0,8.0,3.0,Sunrisers Hyderabad
+2,YS Chahal (RCB),13,13,295,49.1,-,401,21,4/25,4/25,19.09,8.15,14.04,1,RCB,Chahal,2016,2016,Yuzvendra Chahal,9.0,6.0,3.0,2.0,Royal Challengers Bangalore
+3,SR Watson (RCB),16,16,339,56.3,-,485,20,4/29,4/29,24.25,8.58,16.95,1,RCB,Watson,2016,2016,Shane Watson,9.0,5.0,4.0,2.0,Royal Challengers Bangalore
+4,DS Kulkarni (GL),14,14,294,49.0,4,364,18,4/14,4/14,20.22,7.42,16.33,1,GL,Kulkarni,2016,2016,Dhawal Kulkarni,4.0,1.0,3.0,1.0,Gujarat Lions
+5,Mustafizur Rahman (SRH),16,16,366,61.0,1,421,17,3/16,3/16,24.76,6.90,21.52,-,SRH,Rahman,2016,2016,Mustafizur Rahman,11.0,5.0,6.0,3.0,Sunrisers Hyderabad
+6,DJ Bravo (GL),15,15,336,56.0,-,494,17,4/22,4/22,29.05,8.82,19.76,1,GL,Bravo,2016,2016,Dwayne Bravo,4.0,2.0,2.0,1.0,Gujarat Lions
+7,BB Sran (SRH),14,14,297,49.3,-,413,14,3/28,3/28,29.50,8.34,21.21,-,SRH,Sran,2016,2016,Barinder Sran,2.0,1.0,1.0,3.0,Sunrisers Hyderabad
+8,CH Morris (DC),12,12,264,44.0,-,308,13,2/30,2/30,23.69,7.00,20.30,-,DC,Morris,2016,2016,Chris Morris,6.0,2.0,4.0,,
+9,A Mishra (DC),14,14,276,46.0,-,344,13,4/11,4/11,26.46,7.47,21.23,1,DC,Mishra,2016,2016,Amit Mishra,8.0,4.0,4.0,,
+10,MC Henriques (SRH),17,17,312,52.0,-,415,12,2/17,2/17,34.58,7.98,26.00,-,SRH,Henriques,2016,2016,Moises Henriques,3.0,2.0,1.0,3.0,Sunrisers Hyderabad
+11,S Aravind (RCB),9,9,175,29.1,-,216,11,2/18,2/18,19.63,7.40,15.90,-,RCB,Aravind,2016,2016,Sreenath Aravind,4.0,3.0,1.0,2.0,Royal Challengers Bangalore
+12,CJ Jordan (RCB),9,9,168,28.0,-,258,11,4/11,4/11,23.45,9.21,15.27,1,RCB,Jordan,2016,2016,Chris Jordan,4.0,3.0,1.0,2.0,Royal Challengers Bangalore
+13,SP Narine (KKR),11,11,256,42.4,-,304,11,3/26,3/26,27.63,7.12,23.27,-,KKR,Narine,2016,2016,Sunil Narine,5.0,2.0,3.0,4.0,Kolkata Knight Riders
+14,M Morkel (KKR),10,10,213,35.3,-,297,10,2/27,2/27,29.70,8.36,21.30,-,KKR,Morkel,2016,2016,Morne Morkel,5.0,1.0,4.0,4.0,Kolkata Knight Riders
+15,Z Khan (DC),12,12,262,43.4,1,337,10,3/21,3/21,33.70,7.71,26.20,-,DC,Khan,2016,2016,Zaheer Khan,4.0,2.0,2.0,,
+1,DJ Bravo (CSK),17,16,314,52.2,-,426,26,3/22,3/22,16.38,8.14,12.07,,CSK,Bravo,2015,2015,Dwayne Bravo,10.0,7.0,3.0,1.0,Chennai Super Kings
+2,SL Malinga (MI),15,15,360,60.0,3,444,24,4/23,4/23,18.50,7.40,15.00,,MI,Malinga,2015,2015,Lasith Malinga,14.0,7.0,7.0,2.0,Mumbai Indians
+3,YS Chahal (RCB),15,14,281,46.5,-,415,23,3/40,3/40,18.04,8.86,12.21,,RCB,Chahal,2015,2015,Yuzvendra Chahal,8.0,4.0,4.0,3.0,Royal Challengers Bangalore
+4,A Nehra (CSK),16,16,372,62.0,-,449,22,4/10,4/10,20.39,7.24,16.90,,CSK,Nehra,2015,2015,Ashish Nehra,6.0,4.0,2.0,1.0,Chennai Super Kings
+5,MA Starc (RCB),13,12,258,43.0,1,291,20,4/15,4/15,14.55,6.76,12.90,,RCB,Starc,2015,2015,Mitchell Starc,6.0,2.0,4.0,3.0,Royal Challengers Bangalore
+6,MJ McClenaghan (MI),12,12,282,47.0,-,386,18,3/16,3/16,21.44,8.21,15.66,,MI,McClenaghan,2015,2015,Mitchell McClenaghan,7.0,3.0,4.0,2.0,Mumbai Indians
+7,B Kumar (SRH),14,14,310,51.4,1,407,18,3/26,3/26,22.61,7.87,17.22,,SRH,Kumar,2015,2015,Bhuvneshwar Kumar,10.0,4.0,6.0,6.0,Sunrisers Hyderabad
+8,Harbhajan Singh (MI),15,15,342,57.0,1,446,18,3/27,3/27,24.77,7.82,19.00,,MI,Singh,2015,2015,Harbhajan Singh,7.0,3.0,4.0,2.0,Mumbai Indians
+9,HV Patel (RCB),15,14,263,43.5,-,328,17,2/12,2/12,19.29,7.48,15.47,,RCB,Patel,2015,2015,Axar Patel,7.0,3.0,4.0,3.0,Royal Challengers Bangalore
+10,D Wiese (RCB),14,13,254,42.2,-,353,16,4/33,4/33,22.06,8.33,15.87,,RCB,Wiese,2015,2015,David Wiese,4.0,2.0,2.0,3.0,Royal Challengers Bangalore
+11,MM Sharma (CSK),16,16,342,57.0,-,481,14,3/25,3/25,34.35,8.43,24.42,,CSK,Sharma,2015,2015,Sandeep Sharma,5.0,2.0,3.0,1.0,Chennai Super Kings
+12,DS Kulkarni (RR),11,11,210,35.0,1,277,13,2/9,2/9,21.30,7.91,16.15,,RR,Kulkarni,2015,2015,Dhawal Kulkarni,7.0,5.0,2.0,4.0,Rajasthan Royals
+13,CH Morris (RR),11,11,252,42.0,-,311,13,4/23,4/23,23.92,7.40,19.38,,RR,Morris,2015,2015,Chris Morris,6.0,4.0,2.0,4.0,Rajasthan Royals
+14,MC Henriques (SRH),9,9,150,25.0,-,158,11,3/16,3/16,14.36,6.32,13.63,,SRH,Henriques,2015,2015,Moises Henriques,3.0,3.0,0.0,6.0,Sunrisers Hyderabad
+15,RA Jadeja (CSK),17,15,256,42.4,-,330,11,4/11,4/11,30.00,7.73,23.27,,CSK,Jadeja,2015,2015,Ravindra Jadeja,3.0,2.0,1.0,1.0,Chennai Super Kings
+1,MM Sharma (CSK),16,16,323,53.5,-,452,23,4/14,4/14,19.64,8.39,14.04,,CSK,Sharma,2014,2014,Mohit Sharma,8.0,3.0,5.0,3.0,Chennai Super Kings
+2,SP Narine (KKR),16,16,384,64.0,-,407,21,4/20,4/20,19.38,6.35,18.28,,KKR,Narine,2014,2014,Sunil Narine,8.0,5.0,3.0,2.0,Kolkata Knight Riders
+3,RA Jadeja (CSK),16,16,326,54.2,-,443,19,4/12,4/12,23.31,8.15,17.15,,CSK,Jadeja,2014,2014,Ravindra Jadeja,6.0,2.0,4.0,3.0,Chennai Super Kings
+4,Sandeep Sharma (KXIP),11,11,241,40.1,2,354,18,3/15,3/15,19.66,8.81,13.38,,KXIP,Sharma,2014,2014,Mohit Sharma,8.0,3.0,5.0,1.0,Kings XI Punjab
+5,AR Patel (KXIP),17,17,396,66.0,2,405,17,3/24,3/24,23.82,6.13,23.29,,KXIP,Patel,2014,2014,Axar Patel,9.0,4.0,5.0,1.0,Kings XI Punjab
+6,MG Johnson (KXIP),14,14,321,53.3,-,444,17,2/19,2/19,26.11,8.29,18.88,,KXIP,Johnson,2014,2014,Mitchell Johnson,3.0,2.0,1.0,1.0,Kings XI Punjab
+7,R Ashwin (CSK),16,16,359,59.5,1,437,16,3/30,3/30,27.31,7.30,22.43,,CSK,Ashwin,2014,2014,Ravichandran Ashwin,5.0,3.0,2.0,3.0,Chennai Super Kings
+8,PV Tambe (RR),13,13,294,49.0,-,356,15,4/20,4/20,23.73,7.26,19.60,,RR,Tambe,2014,2014,Pravin Tambe,5.0,3.0,2.0,5.0,Rajasthan Royals
+9,PP Chawla (KKR),11,11,237,39.3,-,303,14,3/19,3/19,21.64,7.67,16.92,,KKR,Chawla,2014,2014,Piyush Chawla,3.0,1.0,2.0,2.0,Kolkata Knight Riders
+10,Harbhajan Singh (MI),14,14,330,55.0,1,356,14,2/13,2/13,25.42,6.47,23.57,,MI,Singh,2014,2014,Harbhajan Singh,6.0,3.0,3.0,4.0,Mumbai Indians
+11,R Dhawan (KXIP),13,13,284,47.2,-,365,13,2/14,2/14,28.07,7.71,21.84,,KXIP,Dhawan,2014,2014,Rishi Dhawan,4.0,2.0,2.0,1.0,Kings XI Punjab
+12,L Balaji (KXIP),9,9,204,34.0,-,299,12,4/13,4/13,24.91,8.79,17.00,,KXIP,Balaji,2014,2014,Lakshmipathy Balaji,2.0,1.0,1.0,1.0,Kings XI Punjab
+13,M Morkel (KKR),12,12,288,48.0,1,367,12,2/20,2/20,30.58,7.64,24.00,,KKR,Morkel,2014,2014,Morne Morkel,5.0,3.0,2.0,2.0,Kolkata Knight Riders
+14,Karanveer Singh (KXIP),5,5,120,20.0,-,164,11,4/54,4/54,14.90,8.20,10.90,,KXIP,Singh,2014,2014,Harbhajan Singh,6.0,3.0,3.0,1.0,Kings XI Punjab
+15,Shakib Al Hasan (KKR),13,13,300,50.0,1,334,11,2/22,2/22,30.36,6.68,27.27,,KKR,Hasan,2014,2014,,,,,2.0,Kolkata Knight Riders
+1,DJ Bravo (CSK),18,18,375,62.3,-,497,32,4/42,4/42,15.53,7.95,11.71,1,CSK,Bravo,2013,2013,Dwayne Bravo,12.0,8.0,4.0,1.0,Chennai Super Kings
+2,JP Faulkner (RR),16,16,379,63.1,2,427,28,5/16,5/16,15.25,6.75,13.53,-,RR,Faulkner,2013,2013,James Faulkner,9.0,3.0,6.0,3.0,Rajasthan Royals
+3,Harbhajan Singh (MI),19,19,420,70.0,-,456,24,3/14,3/14,19.00,6.51,17.50,-,MI,Singh,2013,2013,Harbhajan Singh,7.0,4.0,3.0,2.0,Mumbai Indians
+4,MG Johnson (MI),17,17,384,64.0,-,459,24,3/27,3/27,19.12,7.17,16.00,-,MI,Johnson,2013,2013,Mitchell Johnson,11.0,7.0,4.0,2.0,Mumbai Indians
+5,SP Narine (KKR),16,16,384,64.0,1,350,22,4/13,4/13,15.90,5.46,17.45,2,KKR,Narine,2013,2013,Sunil Narine,9.0,5.0,4.0,7.0,Kolkata Knight Riders
+6,A Mishra (SRH),17,17,372,62.0,1,394,21,4/19,4/19,18.76,6.35,17.71,1,SRH,Mishra,2013,2013,Amit Mishra,8.0,5.0,3.0,4.0,Sunrisers Hyderabad
+7,MM Sharma (CSK),15,15,304,50.4,-,326,20,3/10,3/10,16.30,6.43,15.20,-,CSK,Sharma,2013,2013,Mohit Sharma,8.0,3.0,5.0,1.0,Chennai Super Kings
+8,SL Malinga (MI),17,17,392,65.2,-,468,20,3/39,3/39,23.40,7.16,19.60,-,MI,Malinga,2013,2013,Lasith Malinga,5.0,2.0,3.0,2.0,Mumbai Indians
+9,DW Steyn (SRH),17,17,407,67.5,3,384,19,3/11,3/11,20.21,5.66,21.42,-,SRH,Steyn,2013,2013,Dale Steyn,7.0,4.0,3.0,4.0,Sunrisers Hyderabad
+10,KK Cooper (RR),14,14,324,54.0,-,449,19,3/15,3/15,23.63,8.31,17.05,-,RR,Cooper,2013,2013,Kevon Cooper,5.0,2.0,3.0,3.0,Rajasthan Royals
+11,NLTC Perera (SRH),16,16,358,59.4,-,478,19,3/20,3/20,25.15,8.01,18.84,-,SRH,Perera,2013,2013,Thisara Perera,6.0,2.0,4.0,4.0,Sunrisers Hyderabad
+12,PP Ojha (MI),16,15,314,52.2,-,381,16,3/11,3/11,23.81,7.28,19.62,-,MI,Ojha,2013,2013,Pragyan Ojha,4.0,2.0,2.0,2.0,Mumbai Indians
+13,JH Kallis (KKR),16,15,318,53.0,1,394,16,3/13,3/13,24.62,7.43,19.87,-,KKR,Kallis,2013,2013,Jacques Kallis,4.0,3.0,1.0,7.0,Kolkata Knight Riders
+14,AB Dinda (PWI),13,13,294,49.0,-,465,16,3/31,3/31,29.06,9.48,18.37,-,PWI,Dinda,2013,2013,Ashok Dinda,4.0,1.0,3.0,8.0,Pune Warriors
+15,UT Yadav (DC),16,16,347,57.5,-,508,16,4/24,4/24,31.75,8.78,21.68,1,DC,Yadav,2013,2013,Umesh Yadav,7.0,5.0,2.0,,
+1,M Morkel (DC),16,16,378,63.0,1,453,25,4/20,4/20,18.12,7.19,15.12,1,DC,Morkel,2012,2012,Morne Morkel,12.0,5.0,7.0,8.0,Deccan Chargers
+2,SP Narine (KKR),15,15,355,59.1,1,324,24,5/19,5/19,13.50,5.47,14.79,1,KKR,Narine,2012,2012,Sunil Narine,13.0,7.0,6.0,2.0,Kolkata Knight Riders
+3,SL Malinga (MI),14,14,333,55.3,1,350,22,4/16,4/16,15.90,6.30,15.13,1,MI,Malinga,2012,2012,Lasith Malinga,11.0,4.0,7.0,3.0,Mumbai Indians
+4,UT Yadav (DC),17,17,366,61.0,2,453,19,3/19,3/19,23.84,7.42,19.26,-,DC,Yadav,2012,2012,Umesh Yadav,7.0,3.0,4.0,8.0,Deccan Chargers
+5,R Vinay Kumar (RCB),15,14,335,55.5,-,480,19,3/22,3/22,25.26,8.59,17.63,-,RCB,Kumar,2012,2012,Vinay Kumar,7.0,3.0,4.0,5.0,Royal Challengers Bangalore
+6,DW Steyn (DC),12,12,280,46.4,2,285,18,3/8,3/8,15.83,6.10,15.55,-,DC,Steyn,2012,2012,Dale Steyn,3.0,3.0,0.0,8.0,Deccan Chargers
+7,Z Khan (RCB),16,15,360,60.0,1,453,17,3/38,3/38,26.64,7.55,21.17,-,RCB,Khan,2012,2012,Zaheer Khan,7.0,3.0,4.0,5.0,Royal Challengers Bangalore
+8,KA Pollard (MI),14,14,263,43.5,-,350,16,4/44,4/44,21.87,7.98,16.43,1,MI,Pollard,2012,2012,Kieron Pollard,6.0,2.0,4.0,3.0,Mumbai Indians
+9,M Muralidaran (RCB),10,10,240,40.0,-,260,15,3/21,3/21,17.32,6.50,16.00,-,RCB,Muralidaran,2012,2012,Muthiah Muralidaran,7.0,3.0,4.0,5.0,Royal Challengers Bangalore
+10,JH Kallis (KKR),17,16,324,54.0,-,403,15,2/7,2/7,26.86,7.46,21.60,-,KKR,Kallis,2012,2012,Jacques Kallis,6.0,2.0,4.0,2.0,Kolkata Knight Riders
+11,DJ Bravo (CSK),19,18,346,57.4,-,462,15,2/10,2/10,30.80,8.01,23.06,-,CSK,Bravo,2012,2012,Dwayne Bravo,7.0,5.0,2.0,4.0,Chennai Super Kings
+12,BW Hilfenhaus (CSK),9,9,204,34.0,2,233,14,3/27,3/27,16.64,6.85,14.57,-,CSK,Hilfenhaus,2012,2012,Ben Hilfenhaus,5.0,2.0,3.0,4.0,Chennai Super Kings
+13,R Ashwin (CSK),19,18,395,65.5,-,431,14,3/23,3/23,30.78,6.54,28.21,-,CSK,Ashwin,2012,2012,Ravichandran Ashwin,6.0,3.0,3.0,4.0,Chennai Super Kings
+14,A Mishra (DC),14,14,282,47.0,-,377,13,3/32,3/32,29.00,8.02,21.69,-,DC,Mishra,2012,2012,Amit Mishra,1.0,1.0,0.0,8.0,Deccan Chargers
+15,SK Trivedi (RR),14,14,312,52.0,1,380,13,4/25,4/25,29.23,7.30,24.00,1,RR,Trivedi,2012,2012,Siddharth Trivedi,5.0,2.0,3.0,7.0,Rajasthan Royals
+1,SL Malinga (MI),16,16,378,63.0,2,375,28,5/13,5/13,13.39,5.95,13.50,-,MI,Malinga,2011,2011,Lasith Malinga,13.0,6.0,7.0,3.0,Mumbai Indians
+2,MM Patel (MI),15,15,326,54.2,1,358,22,5/21,5/21,16.27,6.58,14.81,-,MI,Patel,2011,2011,Munaf Patel,10.0,6.0,4.0,3.0,Mumbai Indians
+3,S Aravind (RCB),13,13,276,46.0,-,368,21,4/14,4/14,17.52,8.00,13.14,1,RCB,Aravind,2011,2011,Sreenath Aravind,6.0,2.0,4.0,1.0,Royal Challengers Bangalore
+4,R Ashwin (CSK),16,16,378,63.0,1,388,20,3/16,3/16,19.39,6.15,18.89,-,CSK,Ashwin,2011,2011,Ravichandran Ashwin,11.0,7.0,4.0,2.0,Chennai Super Kings
+5,A Mishra (DC),14,14,320,53.2,2,358,19,4/9,4/9,18.84,6.71,16.84,1,DC,Mishra,2011,2011,Amit Mishra,5.0,3.0,2.0,7.0,Deccan Chargers
+6,DE Bollinger (CSK),13,13,282,47.0,1,329,17,3/21,3/21,19.35,7.00,16.58,-,CSK,Bollinger,2011,2011,Doug Bollinger,7.0,2.0,5.0,2.0,Chennai Super Kings
+7,R Sharma (PWI),14,14,300,50.0,1,273,16,3/13,3/13,17.05,5.46,18.75,-,PWI,Sharma,2011,2011,Rahul Sharma,3.0,1.0,2.0,9.0,Pune Warriors
+8,Iqbal Abdulla (KKR),15,15,300,50.0,-,305,16,3/24,3/24,19.05,6.10,18.75,-,KKR,Abdulla,2011,2011,Iqbal Abdulla,8.0,5.0,3.0,4.0,Kolkata Knight Riders
+9,PP Chawla (KXIP),12,12,248,41.2,-,336,16,4/17,4/17,21.00,8.12,15.50,1,KXIP,Chawla,2011,2011,Piyush Chawla,6.0,2.0,4.0,5.0,Kings XI Punjab
+10,RJ Harris (KXIP),13,13,282,47.0,1,382,16,3/28,3/28,23.87,8.12,17.62,-,KXIP,Harris,2011,2011,Ryan Harris,6.0,3.0,3.0,5.0,Kings XI Punjab
+11,JA Morkel (CSK),15,14,270,45.0,1,382,15,3/29,3/29,25.46,8.48,18.00,-,CSK,Morkel,2011,2011,Albie Morkel,6.0,4.0,2.0,2.0,Chennai Super Kings
+12,DW Steyn (DC),12,12,273,45.3,1,299,14,3/16,3/16,21.35,6.57,19.50,-,DC,Steyn,2011,2011,Dale Steyn,3.0,1.0,2.0,7.0,Deccan Chargers
+13,Harbhajan Singh (MI),15,15,318,53.0,1,370,14,5/18,5/18,26.42,6.98,22.71,-,MI,Singh,2011,2011,RP Singh,7.0,3.0,4.0,3.0,Mumbai Indians
+14,Z Khan (RCB),15,15,354,59.0,1,455,14,3/32,3/32,32.50,7.71,25.28,-,RCB,Khan,2011,2011,Zaheer Khan,6.0,3.0,3.0,1.0,Royal Challengers Bangalore
+15,YK Pathan (KKR),15,14,234,39.0,1,238,13,3/20,3/20,18.30,6.10,18.00,-,KKR,Pathan,2011,2011,Yusuf Pathan,8.0,4.0,4.0,4.0,Kolkata Knight Riders
+1,PP Ojha (DC),16,16,353,58.5,-,429,21,3/26,3/26,20.42,7.29,16.80,,DC,Ojha,2010,2010,Pragyan Ojha,4.0,2.0,2.0,2.0,Deccan Chargers
+2,A Mishra (DC),14,14,318,53.0,-,363,17,3/25,3/25,21.35,6.84,18.70,,DC,Mishra,2010,2010,Amit Mishra,6.0,5.0,1.0,2.0,Deccan Chargers
+3,Harbhajan Singh (MI),15,14,321,53.3,1,377,17,3/31,3/31,22.17,7.04,18.88,,MI,Singh,2010,2010,Harbhajan Singh,6.0,4.0,2.0,1.0,Mumbai Indians
+4,A Kumble (RCB),16,16,380,63.2,-,407,17,4/16,4/16,23.94,6.42,22.35,,RCB,Kumble,2010,2010,Anil Kumble,8.0,5.0,3.0,4.0,Royal Challengers Bangalore
+5,R Vinay Kumar (RCB),14,14,278,46.2,-,396,16,4/40,4/40,24.75,8.54,17.37,,RCB,Kumar,2010,2010,Vinay Kumar,7.0,4.0,3.0,4.0,Royal Challengers Bangalore
+6,KA Pollard (MI),14,12,222,37.0,-,274,15,3/17,3/17,18.26,7.40,14.80,,MI,Pollard,2010,2010,Kieron Pollard,3.0,1.0,2.0,1.0,Mumbai Indians
+7,M Muralidaran (CSK),12,12,288,48.0,-,329,15,3/16,3/16,21.93,6.85,19.20,,CSK,Muralidaran,2010,2010,Muthiah Muralidaran,5.0,1.0,4.0,3.0,Chennai Super Kings
+8,SL Malinga (MI),13,13,294,49.0,-,344,15,4/22,4/22,22.93,7.02,19.60,,MI,Malinga,2010,2010,Lasith Malinga,5.0,3.0,2.0,1.0,Mumbai Indians
+9,Z Khan (MI),14,14,290,48.2,1,376,15,3/21,3/21,25.06,7.77,19.33,,MI,Khan,2010,2010,Zaheer Khan,7.0,5.0,2.0,1.0,Mumbai Indians
+10,DW Steyn (RCB),15,15,354,59.0,1,406,15,3/18,3/18,27.06,6.88,23.60,,RCB,Steyn,2010,2010,Dale Steyn,9.0,3.0,6.0,4.0,Royal Challengers Bangalore
+11,IK Pathan (KXIP),14,14,278,46.2,-,426,15,3/24,3/24,28.40,9.19,18.53,,KXIP,Pathan,2010,2010,Irfan Pathan,8.0,4.0,4.0,8.0,Kings XI Punjab
+12,RJ Harris (DC),8,8,184,30.4,-,233,14,3/18,3/18,16.64,7.59,13.14,,DC,Harris,2010,2010,Ryan Harris,4.0,1.0,3.0,2.0,Deccan Chargers
+13,SB Jakati (CSK),11,11,228,38.0,1,291,13,2/17,2/17,22.38,7.65,17.53,,CSK,Jakati,2010,2010,Shadab Jakati,7.0,3.0,4.0,3.0,Chennai Super Kings
+14,R Ashwin (CSK),12,12,288,48.0,1,293,13,3/16,3/16,22.53,6.10,22.15,,CSK,Ashwin,2010,2010,Ravichandran Ashwin,6.0,3.0,3.0,3.0,Chennai Super Kings
+15,RP Singh (DC),12,12,252,42.0,-,370,13,3/17,3/17,28.46,8.80,19.38,,DC,Singh,2010,2010,Harbhajan Singh,6.0,4.0,2.0,2.0,Deccan Chargers
+1,RP Singh (DC),16,16,358,59.4,1,417,23,4/22,4/22,18.13,6.98,15.56,1,DC,Singh,2009,2009,Harbhajan Singh,4.0,0.0,4.0,4.0,Deccan Chargers
+2,A Kumble (RCB),16,16,355,59.1,1,347,21,5/5,5/5,16.52,5.86,16.90,1,RCB,Kumble,2009,2009,Anil Kumble,9.0,8.0,1.0,3.0,Royal Challengers Bangalore
+3,A Nehra (DC),13,13,306,51.0,1,346,19,3/27,3/27,18.21,6.78,16.10,-,DC,Nehra,2009,2009,Ashish Nehra,9.0,5.0,4.0,4.0,Deccan Chargers
+4,SL Malinga (MI),13,13,297,49.3,2,311,18,3/10,3/10,17.27,6.28,16.50,-,MI,Malinga,2009,2009,Lasith Malinga,7.0,1.0,6.0,7.0,Mumbai Indians
+5,PP Ojha (DC),15,15,321,53.3,-,348,18,3/21,3/21,19.32,6.50,17.83,-,DC,Ojha,2009,2009,Pragyan Ojha,5.0,2.0,3.0,4.0,Deccan Chargers
+6,IK Pathan (KXIP),14,14,302,50.2,1,390,17,3/35,3/35,22.94,7.74,17.76,-,KXIP,Pathan,2009,2009,Yusuf Pathan,5.0,2.0,3.0,5.0,Kings XI Punjab
+7,MM Patel (RR),11,11,209,34.5,1,241,16,2/14,2/14,15.06,6.91,13.06,-,RR,Patel,2009,2009,Munaf Patel,5.0,0.0,5.0,6.0,Rajasthan Royals
+8,PJ Sangwan (DC),13,13,280,46.4,1,360,15,3/18,3/18,24.00,7.71,18.66,-,DC,Sangwan,2009,2009,Pradeep Sangwan,4.0,2.0,2.0,4.0,Deccan Chargers
+9,DP Nannes (DC),13,13,297,49.3,-,372,15,3/27,3/27,24.80,7.51,19.80,-,DC,Nannes,2009,2009,Dirk Nannes,4.0,3.0,1.0,4.0,Deccan Chargers
+10,M Muralidaran (CSK),13,13,300,50.0,1,261,14,3/11,3/11,18.64,5.22,21.42,-,CSK,Muralidaran,2009,2009,Muthiah Muralidaran,7.0,6.0,1.0,2.0,Chennai Super Kings
+11,A Mishra (DC),11,11,252,42.0,1,294,14,3/14,3/14,21.00,7.00,18.00,-,DC,Mishra,2009,2009,Amit Mishra,5.0,3.0,2.0,4.0,Deccan Chargers
+12,SK Warne (RR),13,13,300,50.0,-,365,14,3/24,3/24,26.07,7.30,21.42,-,RR,Warne,2009,2009,Shane Warne,4.0,0.0,4.0,6.0,Rajasthan Royals
+13,SB Jakati (CSK),9,8,174,29.0,-,217,13,4/22,4/22,16.69,7.48,13.38,2,CSK,Jakati,2009,2009,Shadab Jakati,6.0,6.0,0.0,2.0,Chennai Super Kings
+14,L Balaji (CSK),13,13,224,37.2,-,316,13,4/21,4/21,24.30,8.46,17.23,1,CSK,Balaji,2009,2009,Lakshmipathy Balaji,4.0,3.0,1.0,2.0,Chennai Super Kings
+15,JA Morkel (CSK),12,12,240,40.0,1,324,13,2/13,2/13,24.92,8.10,18.46,-,CSK,Morkel,2009,2009,Albie Morkel,4.0,3.0,1.0,2.0,Chennai Super Kings
+1,Sohail Tanvir (RR),11,11,247,41.1,-,266,22,6/14,6/14,12.09,6.46,11.22,1,RR,Tanvir,2008,2008,Sohail Tanvir,6.0,4.0,2.0,1.0,Rajasthan Royals
+2,SK Warne (RR),15,15,312,52.0,1,404,19,3/19,3/19,21.26,7.76,16.42,-,RR,Warne,2008,2008,Shane Warne,8.0,4.0,4.0,1.0,Rajasthan Royals
+3,S Sreesanth (KXIP),15,15,307,51.1,-,442,19,3/29,3/29,23.26,8.63,16.15,-,KXIP,Sreesanth,2008,2008,Sreesanth,9.0,3.0,6.0,2.0,Kings XI Punjab
+4,SR Watson (RR),15,15,325,54.1,-,383,17,3/10,3/10,22.52,7.07,19.11,-,RR,Watson,2008,2008,Shane Watson,8.0,2.0,6.0,1.0,Rajasthan Royals
+5,PP Chawla (KXIP),15,15,281,46.5,-,389,17,3/25,3/25,22.88,8.30,16.52,-,KXIP,Chawla,2008,2008,Piyush Chawla,6.0,4.0,2.0,2.0,Kings XI Punjab
+6,JA Morkel (CSK),13,13,288,48.0,-,399,17,4/32,4/32,23.47,8.31,16.94,1,CSK,Morkel,2008,2008,Albie Morkel,7.0,5.0,2.0,3.0,Chennai Super Kings
+7,MS Gony (CSK),16,16,360,60.0,3,443,17,3/34,3/34,26.05,7.38,21.17,-,CSK,Gony,2008,2008,Manpreet Gony,6.0,4.0,2.0,3.0,Chennai Super Kings
+8,VY Mahesh (DC),11,11,253,42.1,-,370,16,4/36,4/36,23.12,8.77,15.81,1,DC,Mahesh,2008,2008,Yo Mahesh,6.0,2.0,4.0,8.0,Deccan Chargers
+9,MF Maharoof (DC),10,10,216,36.0,-,249,15,3/34,3/34,16.60,6.91,14.40,-,DC,Maharoof,2008,2008,Farveez Maharoof,6.0,3.0,3.0,8.0,Deccan Chargers
+10,IK Pathan (KXIP),14,14,318,53.0,2,350,15,2/18,2/18,23.33,6.60,21.20,-,KXIP,Pathan,2008,2008,Irfan Pathan,8.0,5.0,3.0,2.0,Kings XI Punjab
+11,RP Singh (DC),14,14,308,51.2,1,442,15,3/35,3/35,29.46,8.61,20.53,-,DC,Singh,2008,2008,RP Singh,5.0,1.0,4.0,8.0,Deccan Chargers
+12,MM Patel (RR),15,15,330,55.0,1,420,14,3/17,3/17,30.00,7.63,23.57,-,RR,Patel,2008,2008,Munaf Patel,4.0,1.0,3.0,1.0,Rajasthan Royals
+13,SK Trivedi (RR),15,15,288,48.0,-,399,13,2/25,2/25,30.69,8.31,22.15,-,RR,Trivedi,2008,2008,Siddharth Trivedi,5.0,4.0,1.0,1.0,Rajasthan Royals
+14,Umar Gul (KKR),6,6,135,22.3,1,184,12,4/23,4/23,15.33,8.17,11.25,1,KKR,Gul,2008,2008,Umar Gul,4.0,2.0,2.0,6.0,Kolkata Knight Riders
+15,A Nehra (MI),14,14,269,44.5,-,348,12,3/13,3/13,29.00,7.76,22.41,-,MI,Nehra,2008,2008,Ashish Nehra,4.0,2.0,2.0,5.0,Mumbai Indians

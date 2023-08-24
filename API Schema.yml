@@ -1,0 +1,5 @@
+playoffs = {qualifier 1: {team_1: CSK, team_2: GT, winner: CSK, team1_win %: 40, team2_win%: 60, prediction_or_actual: actual, match_date:31-march-23, match_venue: Ahmedabad}, qualifier 2: {team_1: RCB, team 2: MI, winner: RCB, team1_win %: 40, team2_win%: 60, prediction_or_actual: actual, match_date:31-march-23, match_venue: Ahmedabad}}
+
+League_Matches = {{match no: 1, team_1: CSK, team_2: GT, winner: CSK, team1_win %: 40, team2_win%: 60, toss: CSK, prediction_or_actual: actual, match_date:31-march-23, match_venue: Ahmedabad}, {match no: 2, team_1: RCB, team_2: MI, winner: MI, team1_win %: 40, team2_win%: 60, toss: MI, prediction_or_actual: actual, match_date:30-march-23, match_venue: Ahmedabad}}
+
+Points_Table = {{Pos: 1, team_name: CSK, matches_played: 14, wins: 10, losses: 3, NR: 1, points: 21}, {Pos: 2, team_name: GT, matches_played: 14, wins: 10, losses: 4, NR: 0, points: 20}}
